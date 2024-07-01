@@ -30,9 +30,6 @@ public class PDFservice {
 
         Map<String, Object> parameters = new HashMap<>();
 
-        // table header
-        parameters.put("p1", "100");
-
         // add animal collection
         JRBeanCollectionDataSource dataSource = new JRBeanCollectionDataSource(animals);
         parameters.put("CollectionBeanParam", dataSource);
