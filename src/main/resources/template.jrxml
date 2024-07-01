@@ -43,7 +43,7 @@
     <background splitType="Stretch"/>
     <title height="79" splitType="Stretch">
         <element kind="staticText" uuid="b75137cd-60b8-4d65-8885-3bef92b2ebe8" x="0" y="17" width="550" height="44" fontSize="26.0" hTextAlign="Center">
-            <text><![CDATA[Template experience]]></text>
+            <text><![CDATA[JasperReports 7.0 experience]]></text>
             <box padding="1">
                 <topPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
                 <leftPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
